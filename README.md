@@ -4,7 +4,9 @@
 
 <br>
 
-Thanks for reading! This study guide was originally made in April 2019. Feel free to comment and let me know if you want YouTube tutorials.
+Thanks for reading! This study guide was originally made in April, 2019. Feel free to comment and let me know if you want YouTube tutorials.
+
+This study guide is also referenced in my [Medium article](https://danblevins.medium.com/my-aws-cloud-study-guide-1fbcb03b9c95).
 
 Want to stay in touch? Connect with me on [LinkedIn](https://www.linkedin.com/in/dan-blevins/)!
 
