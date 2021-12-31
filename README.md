@@ -1,4 +1,4 @@
-# My AWS Cloud Study Guide
+# ☁️ AWS Cloud Study Guide
 
 ## By [Dan Blevins](https://www.linkedin.com/in/dan-blevins/)
 
