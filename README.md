@@ -1,4 +1,4 @@
-# ☁️ AWS Cloud Study Guide by [Dan Blevins](https://www.linkedin.com/in/dan-blevins/)
+# ☁️ AWS Cloud Study Guide
 
 <br>
 
