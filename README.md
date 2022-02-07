@@ -744,8 +744,8 @@ Better to decouple applications and use SQS (queue model), SNS (pub/ sub model),
   - Subnets: Restricted to single AZ, but a single AZ can contain multiple subnets
   - VPC IP addresses are assigned a private IP address range via CIDR Masking
   - Security:
-    - Instance: Security Groups (Stateful – on/off): When you set a rule for inbound, it allows traffic outbound automatically
-    - Subnet: Networking Access Control Lists, NACL (Stateless): Separate rules for inbound and outbound traffic
+    - Instance: Security Groups (Stateful – on/off): When you set a rule for inbound traffic, it allows outbound traffic automatically
+    - Subnet: Networking Access Control Lists, NACL (Stateless): There are separate rules for inbound and outbound traffic
 - NACL are like a firewall which control traffic to and from subnet
 - Default NACL allows everything outbound and everything inbound
 - Great way of blocking a specific IP at the subnet level
