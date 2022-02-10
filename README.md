@@ -2,7 +2,7 @@
 
 <br>
 
-Thanks for reading! This study guide was originally made in April, 2019 and updated occassionally ever since.
+Thanks for reading! This study guide was originally made in April, 2019 and is updated occassionally.
 
 This study guide is also referenced in my [Medium article](https://danblevins.medium.com/my-aws-cloud-study-guide-1fbcb03b9c95).
 
